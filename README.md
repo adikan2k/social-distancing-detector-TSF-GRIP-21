@@ -25,7 +25,8 @@ Add the weight file to the yolo-coco folder.
 Provided you already have OpenCV installed with NVIDIA GPU support, all you need to do is set USE_GPU=True in your config.py file.
 
 <h1> OUPUT DEMO </h1>
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/90503792/133214303-b2132e4c-c7e6-4689-8919-b9233f07768a.gif)
+![demo](https://user-images.githubusercontent.com/90503792/133215394-398f8047-f741-4e03-8b16-60438a834ca9.gif)
+
 
 <h1>Contact me</h1>
 Email - <a href = kanbargi.adi2k@gmail.com>kanbargi.adi2k@gmail.com<a> 
