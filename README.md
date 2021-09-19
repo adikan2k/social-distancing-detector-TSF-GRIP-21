@@ -1,3 +1,5 @@
+![demo](https://user-images.githubusercontent.com/90503792/133215394-398f8047-f741-4e03-8b16-60438a834ca9.gif)
+
 <h1> SOCIAL DISTANCING DETECTOR </h1>
 This is a social distaning detector built using YOLO(COCO Model) along with OpenCV.
 
@@ -23,10 +25,6 @@ Add the weight file to the yolo-coco folder.
 
 * <h2>GPU</h2>
 Provided you already have OpenCV installed with NVIDIA GPU support, all you need to do is set USE_GPU=True in your config.py file.
-
-<h1> OUPUT DEMO </h1>
-![demo](https://user-images.githubusercontent.com/90503792/133215394-398f8047-f741-4e03-8b16-60438a834ca9.gif)
-
 
 <h1>Contact me</h1>
 Email - <a href = kanbargi.adi2k@gmail.com>kanbargi.adi2k@gmail.com<a> 
